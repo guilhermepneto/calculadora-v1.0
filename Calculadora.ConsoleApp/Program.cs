@@ -133,6 +133,14 @@ while (true)
         histoperacoes[contadoroper] = textoper;
         contadoroper++;
     }
+    else
+    {
+        histoperacoes = new string[100];
+        contadoroper = 0;
+
+        histoperacoes[contadoroper] = textoper;
+        contadoroper++;
+    }
 
     Console.WriteLine("O resultado é: " + resultado);
 
