@@ -1,5 +1,7 @@
 # Calculadora
 
+![Calculadora rodando em terminal](./.docs/Calculadora.gif)
+
 # Projeto
 
 Projeto desenvolvido durante as primeiras aulas do curso [Academia do Programador](https://www.academiadoprogramador.net/inicio) 2026
